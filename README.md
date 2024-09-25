@@ -3,7 +3,7 @@
 - 📫 How to reach me: (https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/deon-andrews-bb347527)
 
 - 😄 Pronouns: he/him
-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 - ⚡[My Tech Stack]
 <p align="center">
   <a href="https://skillicons.dev">
@@ -14,3 +14,4 @@
 
   🎮 When I'm AFK:
 
+- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
