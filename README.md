@@ -4,8 +4,8 @@
 
 - 😄 Pronouns: he/him
 
-- ⚡[My Tech Stack]
 <p align="center">
+  ⚡[My Tech Stack]
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,terraform,docker,python,bash,linux,kubernetes,vscode,docker,cloudflare,raspberrypi" />
   </a>
