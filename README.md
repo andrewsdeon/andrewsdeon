@@ -4,4 +4,13 @@
 
 - 😄 Pronouns: he/him
 - ⚡My Tech Stack:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,terraform,docker,python,bash,linux,kubernetes,vscode,docker,cloudflare,raspberrypi" />
+  </a>
+</p>
+
   [![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,python,bash,linux,kubernetes,vscode,docker,cloudflare,raspberrypi)](https://skillicons.dev)
+
+  🎮 When I'm AFK:
+
