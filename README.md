@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-- 📫 How to reach me: (https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/deon-andrews-bb347527)
-
-- 😄 Pronouns: he/him
-
+Below is my tech stack:
 <p align="center">
   ⚡[My Tech Stack]
   
@@ -12,6 +9,10 @@
   </a>
 </p>
 
+
+- 📫 How to reach me: (https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/deon-andrews-bb347527)
+
+- 😄 Pronouns: he/him
 
   🎮 When I'm AFK:
 
