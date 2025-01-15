@@ -1,4 +1,4 @@
-## Hi There All👋
+## Hi There 👋
 
 Below is my ⚡[My Tech Stack]:
 <p align="center">
