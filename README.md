@@ -10,7 +10,7 @@ Below is my ⚡[My Tech Stack]:
 </p>
 
 
-- 📫 How to reach me: <img src="https://skillicons.dev/icons?i=linkedin" />(https://www.linkedin.com/in/deon-andrews-bb347527
+- 📫 How to reach me: <img src="https://skillicons.dev/icons?i=linkedin" />https://www.linkedin.com/in/deon-andrews-bb347527
 
 - 😄 Pronouns: he/him
 
