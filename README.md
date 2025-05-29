@@ -1,7 +1,7 @@
 ## Hi There All 👋
 
 Below is my ⚡[My Tech Stack]:
-<p align="center">
+<p align="left">
   
   
   <a href="https://skillicons.dev">
