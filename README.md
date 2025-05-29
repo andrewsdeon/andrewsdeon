@@ -5,7 +5,7 @@ Below is my ⚡[My Tech Stack]:
   
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,terraform,docker,python,bash,linux,kubernetes,vscode,docker,cloudflare,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=aws,terraform,docker,python,bash,linux,kubernetes,vscode,portainer,cloudflare,raspberrypi" />
   </a>
 </p>
 
